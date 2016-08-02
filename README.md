@@ -1,10 +1,13 @@
-#RxLuban
+# RxLuban
 
 a picture compaction algorithm util Rx Version
 
 depend on [Luban](https://github.com/Curzibn/Luban)
 
-##AndroidStudio
+## screenshot
+![image](https://github.com/kHRYSTAL/RxLuban/blob/master/screenshot/screenshot.jpg)
+
+## AndroidStudio
 ```
 allprojects {
 		repositories {
@@ -20,10 +23,10 @@ dependencies {
 	}
 ```
 
-##Eclipse
+## Eclipse
 ![image](https://github.com/kHRYSTAL/RecyclerViewAdapterDelegate/blob/master/screenshot/hehe.jpeg)
 
-##Usage
+## Usage
 
 eg.
 
@@ -60,5 +63,5 @@ RxLuban.getInstance(context)
 
 
 
-##Thanks
+## Thanks
 *   [Curzibn](https://github.com/Curzibn)
